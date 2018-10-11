@@ -1,5 +1,5 @@
 function greeting():
-	return "Hello"
+	return "Hello!"
 	
 function bye():
 	return "Bye"
