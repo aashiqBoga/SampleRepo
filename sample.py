@@ -2,4 +2,4 @@ function greeting():
 	return "Hello"
 	
 function bye():
-	return "Bye"
+	return "Bye!"
